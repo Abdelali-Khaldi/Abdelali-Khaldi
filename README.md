@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abdelali-Khaldi.
-- 👀 I’m interested in Programing and Web Developement.
-- 🌱 I’m currently learning : HTML, CSS, JavaScript, and Python .
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Cybersecurity, Programing and Web Developement.
+- 🌱 I’m currently learning : Linux OS, Web Development, JavaScript, C++ and Python .
+- 💞️ I’m looking to collaborate on build websites, make apps ...
 - 📫 How to reach me ...
 
 <!---
